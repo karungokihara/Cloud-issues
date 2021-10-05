@@ -22,3 +22,7 @@ When a company have a lot of things to monitor on the cloud, it becomes hard for
 # References
 Not Just You! WhatsApp, Instagram, & Facebook are down for many Users. Mfidie.com. (2021). Retrieved 4 October 2021, from https://mfidie.com/not-just-you-whatsapp-instagram-facebook-are-down-for-many-users/.
 Durcevic, S. (2021). Cloud Computing Risks, Challenges & Problems Businesses Are Facing. BI Blog | Data Visualization & Analytics Blog | datapine. Retrieved 4 October 2021, from https://www.datapine.com/blog/cloud-computing-risks-and-challenges/.
+
+
+
+myemail is karungokihara@gmail.com
